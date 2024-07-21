@@ -19,6 +19,7 @@
     "python.linting.flake8Enabled": true,
     "cSpell.words": [
         "dotenv",
+        "msrp",
         "pydantic",
         "viewsets"
     ]
